@@ -1,0 +1,5354 @@
+{
+  "success": true,
+  "st": true,
+  "dt": {
+    "Total": 167,
+    "Data": [
+      {
+        "ObjectType": 1,
+        "ObjectID": 1,
+        "Name": "01 - Bến xe Gia Lâm - Bến xe Yên Nghĩa",
+        "FleedCode": "01",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00-21h00 ; 10 -15 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "10 -15 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 2,
+        "Name": "02 - Bác Cổ - Bến xe Yên Nghĩa",
+        "FleedCode": "02",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 22h30 ; 5 -10- 15 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,22:30;0|T7|05:00,22:30;0|CN|05:02,22:30;###1|T2 - T6|05:00,22:30;1|T7|05:00,22:30;1|CN|05:00,22:31",
+        "Frequency": "5 -10- 15 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 22:30",
+            "PeriodBack": "05:00 - 22:30"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 22:30",
+            "PeriodBack": "05:00 - 22:30"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:02 - 22:30",
+            "PeriodBack": "05:00 - 22:31"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 3,
+        "Name": "03A - Bến xe Giáp Bát - Bến xe Gia Lâm",
+        "FleedCode": "03A",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h03 - 21h03 ; 10 - 15 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:03,21:03;0|T7|05:03,21:03;0|CN|05:03,21:03;###1|T2 - T6|05:03,21:03;1|T7|05:03,21:03;1|CN|05:03,21:03",
+        "Frequency": "10 - 15 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:03 - 21:03",
+            "PeriodBack": "05:03 - 21:03"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:03 - 21:03",
+            "PeriodBack": "05:03 - 21:03"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:03 - 21:03",
+            "PeriodBack": "05:03 - 21:03"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 4,
+        "Name": "04 - Long Biên - Bệnh viện Nội tiết trung ương cơ sở 2",
+        "FleedCode": "04",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00-21h00 ; 20 - 24 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "20 - 24 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 5,
+        "Name": "05 - KĐT Linh Đàm - Phú Diễn",
+        "FleedCode": "05",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h05 ; 15-20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:20;0|T7|05:00,21:20;0|CN|05:00,21:10;###1|T2 - T6|05:00,21:25;1|T7|05:00,21:25;1|CN|05:00,21:15",
+        "Frequency": "15-20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:20",
+            "PeriodBack": "05:00 - 21:25"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:20",
+            "PeriodBack": "05:00 - 21:25"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:10",
+            "PeriodBack": "05:00 - 21:15"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 6,
+        "Name": "06A - Bến xe Giáp Bát - Cầu Giẽ",
+        "FleedCode": "06A",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 10-15-20phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,20:05;0|T7|05:00,20:05;0|CN|05:15,20:05;###1|T2 - T6|05:00,21:05;1|T7|05:00,21:05;1|CN|05:00,21:00",
+        "Frequency": "10-15-20phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 20:05",
+            "PeriodBack": "05:00 - 21:05"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 20:05",
+            "PeriodBack": "05:00 - 21:05"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:15 - 20:05",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 7,
+        "Name": "07 - Cầu Giấy - Nội Bài",
+        "FleedCode": "07",
+        "Cost": 8000,
+        "NameNoSign": null,
+        "Data": "5h00 - 22h35 ; 10-15 phút/chuyến ; 8000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:35;0|T7|05:00,21:35;0|CN|05:00,21:30;###1|T2 - T6|05:00,22:35;1|T7|05:00,22:35;1|CN|05:08,22:30",
+        "Frequency": "10-15 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:35",
+            "PeriodBack": "05:00 - 22:35"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:35",
+            "PeriodBack": "05:00 - 22:35"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:30",
+            "PeriodBack": "05:08 - 22:30"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 8,
+        "Name": "08A - Long Biên - Đông Mỹ",
+        "FleedCode": "08A",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00-22h30 ; 10 -15 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,22:05;0|T7|05:00,22:05;0|CN|05:00,22:05;###1|T2 - T6|05:00,21:30;1|T7|05:00,21:30;1|CN|05:00,21:30",
+        "Frequency": "10 -15 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 22:05",
+            "PeriodBack": "05:00 - 21:30"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 22:05",
+            "PeriodBack": "05:00 - 21:30"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 22:05",
+            "PeriodBack": "05:00 - 21:30"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 10,
+        "Name": "10A - Long Biên - Từ Sơn",
+        "FleedCode": "10A",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h05-22h00 ; 10 -15- 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:10,22:00;0|T7|05:10,22:00;0|CN|05:05,22:00;###1|T2 - T6|05:05,21:00;1|T7|05:05,21:00;1|CN|05:00,21:00",
+        "Frequency": "10 -15- 20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:10 - 22:00",
+            "PeriodBack": "05:05 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:10 - 22:00",
+            "PeriodBack": "05:05 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:05 - 22:00",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 11,
+        "Name": "11 - Công viên Thống Nhất - Học viện Nông Nghiệp VIệt Nam",
+        "FleedCode": "11",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00  - 22h00 ; 10 - 12 - 15 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,22:00;0|T7|05:00,22:00;0|CN|05:00,22:00;###1|T2 - T6|05:00,22:00;1|T7|05:00,22:00;1|CN|05:00,22:00",
+        "Frequency": "10 - 12 - 15 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 22:00",
+            "PeriodBack": "05:00 - 22:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 22:00",
+            "PeriodBack": "05:00 - 22:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 22:00",
+            "PeriodBack": "05:00 - 22:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 12,
+        "Name": "12 - Công viên Nghĩa Đô - Khánh Hà (Thường Tín).",
+        "FleedCode": "12",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 12-15-20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:05,21:00;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:05,21:00",
+        "Frequency": "12-15-20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:05 - 21:00",
+            "PeriodBack": "05:05 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 13,
+        "Name": "13 - CV nước Hồ Tây - Cổ Nhuế (HVCS)",
+        "FleedCode": "13",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h06 ; 16 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:06,21:06;1|T7|05:06,21:06;1|CN|05:06,21:06",
+        "Frequency": "16 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:06 - 21:06"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:06 - 21:06"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:06 - 21:06"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 15,
+        "Name": "15 - Bến xe Gia Lâm - Phố Nỉ",
+        "FleedCode": "15",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "Đầu A: 5h00-19h35; Đầu B: 5h05 - 21h05 ; 12-10-15 phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,19:35;0|T7|05:00,19:35;0|CN|05:00,19:35;###1|T2 - T6|05:05,21:05;1|T7|05:05,21:05;1|CN|05:05,21:05",
+        "Frequency": "12-10-15 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 19:35",
+            "PeriodBack": "05:05 - 21:05"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 19:35",
+            "PeriodBack": "05:05 - 21:05"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 19:35",
+            "PeriodBack": "05:05 - 21:05"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 17,
+        "Name": "17 - Long Biên - Nội Bài",
+        "FleedCode": "17",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "5h00-22h00 ; 10-15 phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,20:30;0|T7|05:00,20:30;0|CN|05:10,20:30;###1|T2 - T6|05:10,22:00;1|T7|05:10,22:00;1|CN|05:10,22:00",
+        "Frequency": "10-15 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 20:30",
+            "PeriodBack": "05:10 - 22:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 20:30",
+            "PeriodBack": "05:10 - 22:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:10 - 20:30",
+            "PeriodBack": "05:10 - 22:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 19,
+        "Name": "19 - Trần Khánh Dư - Học viện chính sách và phát triển",
+        "FleedCode": "19",
+        "Cost": 8000,
+        "NameNoSign": null,
+        "Data": "5h00  - 21h00 ; 11-12- 15 phút/chuyến ; 8000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:01,21:01;###1|T2 - T6|05:00,21:01;1|T7|05:00,21:01;1|CN|05:05,21:05",
+        "Frequency": "11-12- 15 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:01"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:01"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:01 - 21:01",
+            "PeriodBack": "05:05 - 21:05"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 20,
+        "Name": "20A - Cầu Giấy - Bến xe Sơn Tây",
+        "FleedCode": "20A",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "Cầu Giấy (5h00-20h47); BX Sơn Tây (4h35-20h37) ; 14 phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:15;0|T7|05:00,21:15;0|CN|05:00,21:15;###1|T2 - T6|04:30,21:15;1|T7|04:30,21:15;1|CN|04:30,21:15",
+        "Frequency": "14 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:15",
+            "PeriodBack": "04:30 - 21:15"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:15",
+            "PeriodBack": "04:30 - 21:15"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:15",
+            "PeriodBack": "04:30 - 21:15"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 21,
+        "Name": "21A - Bến xe Giáp Bát - Bến xe Yên Nghĩa",
+        "FleedCode": "21A",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 10 - 15 -20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:05,21:05;1|T7|05:05,21:05;1|CN|05:05,21:05",
+        "Frequency": "10 - 15 -20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:05 - 21:05"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:05 - 21:05"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:05 - 21:05"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 22,
+        "Name": "22A - Bến xe Gia Lâm - KĐT Trung Văn",
+        "FleedCode": "22A",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 22h00 ; 9-10-15-20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,22:00;0|T7|05:00,22:00;0|CN|05:00,22:00;###1|T2 - T6|05:00,22:00;1|T7|05:00,22:00;1|CN|05:00,22:00",
+        "Frequency": "9-10-15-20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 22:00",
+            "PeriodBack": "05:00 - 22:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 22:00",
+            "PeriodBack": "05:00 - 22:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 22:00",
+            "PeriodBack": "05:00 - 22:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 23,
+        "Name": "23 - Nguyễn Công Trứ - Nguyễn Công Trứ",
+        "FleedCode": "23",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 15 - 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:05,21:00;1|T7|05:05,21:00;1|CN|05:00,21:00",
+        "Frequency": "15 - 20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:05 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:05 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 24,
+        "Name": "24 - Long Biên - Ngã Tư Sở - Cầu Giấy",
+        "FleedCode": "24",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00-22h00 ; 12 -15 -20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,22:00;0|T7|05:00,22:00;0|CN|05:00,21:33;###1|T2 - T6|05:00,22:00;1|T7|05:00,22:00;1|CN|05:00,22:00",
+        "Frequency": "12 -15 -20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 22:00",
+            "PeriodBack": "05:00 - 22:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 22:00",
+            "PeriodBack": "05:00 - 22:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:33",
+            "PeriodBack": "05:00 - 22:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 25,
+        "Name": "25 - BV Nhiệt đới TW Cơ sở 2 - Bến xe Giáp Bát",
+        "FleedCode": "25",
+        "Cost": 8000,
+        "NameNoSign": null,
+        "Data": "5h09 - 21h00 ; 11 - 14 - 15- 20 - 25 phút/chuyến ; 8000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:10;0|T7|05:00,21:10;0|CN|05:00,21:00;###1|T2 - T6|05:00,21:16;1|T7|05:00,21:16;1|CN|05:00,21:00",
+        "Frequency": "11 - 14 - 15- 20 - 25 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:10",
+            "PeriodBack": "05:00 - 21:16"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:10",
+            "PeriodBack": "05:00 - 21:16"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 27,
+        "Name": "27 - Bến xe Yên Nghĩa - Bến xe Nam Thăng Long",
+        "FleedCode": "27",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 7 - 8 -10  phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:32;0|T7|05:00,21:32;0|CN|05:00,21:30;###1|T2 - T6|05:00,21:32;1|T7|05:00,21:32;1|CN|05:00,21:00",
+        "Frequency": "7 - 8 -10  phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:32",
+            "PeriodBack": "05:00 - 21:32"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:32",
+            "PeriodBack": "05:00 - 21:32"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:30",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 28,
+        "Name": "28 - BX Nước Ngầm - Đông Ngạc - Đại học Mỏ",
+        "FleedCode": "28",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h07 ; 11  - 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:25;0|T7|05:00,21:25;0|CN|05:00,21:05;###1|T2 - T6|05:00,21:25;1|T7|05:00,21:25;1|CN|05:00,21:05",
+        "Frequency": "11  - 20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:25",
+            "PeriodBack": "05:00 - 21:25"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:25",
+            "PeriodBack": "05:00 - 21:25"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:05",
+            "PeriodBack": "05:00 - 21:05"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 29,
+        "Name": "29 - BX Giáp Bát - Tân Lập",
+        "FleedCode": "29",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 12 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:05,21:00;###1|T2 - T6|05:00,21:05;1|T7|05:00,21:05;1|CN|05:05,21:05",
+        "Frequency": "12 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:05"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:05"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:05 - 21:00",
+            "PeriodBack": "05:05 - 21:05"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 31,
+        "Name": "31 - Bách Khoa - Chèm (ĐH Mỏ)",
+        "FleedCode": "31",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h05 - 21h00 ; 10 - 15 - 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "10 - 15 - 20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 32,
+        "Name": "32 - Bến xe Giáp Bát - Nhổn",
+        "FleedCode": "32",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 22h30 ; 5-8-10-20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,22:30;0|T7|05:00,22:30;0|CN|05:00,22:30;###1|T2 - T6|05:00,22:30;1|T7|05:00,22:30;1|CN|05:05,22:30",
+        "Frequency": "5-8-10-20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 22:30",
+            "PeriodBack": "05:00 - 22:30"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 22:30",
+            "PeriodBack": "05:00 - 22:30"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 22:30",
+            "PeriodBack": "05:05 - 22:30"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 33,
+        "Name": "33 - Cụm Công nghiệp Thanh Oai - Xuân Đỉnh",
+        "FleedCode": "33",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h04-21h04 ; 16 - 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:05;0|T7|05:00,21:05;0|CN|05:00,21:05;###1|T2 - T6|05:00,21:05;1|T7|05:00,21:05;1|CN|05:00,21:05",
+        "Frequency": "16 - 20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:05",
+            "PeriodBack": "05:00 - 21:05"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:05",
+            "PeriodBack": "05:00 - 21:05"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:05",
+            "PeriodBack": "05:00 - 21:05"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 34,
+        "Name": "34 - Bến xe Mỹ Đình - Trung tâm hành chính huyện Gia Lâm",
+        "FleedCode": "34",
+        "Cost": 8000,
+        "NameNoSign": null,
+        "Data": "04h50 - 21h35 ; 9-10-11 Phút/Chuyến ; 8000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|04:50,21:35;0|T7|04:50,21:35;0|CN|04:50,21:35;###1|T2 - T6|05:00,21:35;1|T7|05:00,21:35;1|CN|05:00,21:35",
+        "Frequency": "9-10-11 Phút/Chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "04:50 - 21:35",
+            "PeriodBack": "05:00 - 21:35"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "04:50 - 21:35",
+            "PeriodBack": "05:00 - 21:35"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "04:50 - 21:35",
+            "PeriodBack": "05:00 - 21:35"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 35,
+        "Name": "35A - Trần Khánh Dư - Nam Thăng Long",
+        "FleedCode": "35A",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 15 - 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "15 - 20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 36,
+        "Name": "36 - Yên Phụ - Khu đô thị Linh Đàm",
+        "FleedCode": "36",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h05 - 21h00 ; 14 -20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:05,21:00;0|T7|05:05,21:00;0|CN|05:03,21:00;###1|T2 - T6|05:05,21:00;1|T7|05:05,21:00;1|CN|05:00,21:00",
+        "Frequency": "14 -20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:05 - 21:00",
+            "PeriodBack": "05:05 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:05 - 21:00",
+            "PeriodBack": "05:05 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:03 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 37,
+        "Name": "37 - Bến xe Giáp Bát - Chương Mỹ",
+        "FleedCode": "37",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h06 - 21h02 ; 10 -20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:06,21:01;0|T7|05:06,21:01;0|CN|05:00,21:00;###1|T2 - T6|05:06,21:02;1|T7|05:06,21:02;1|CN|05:00,21:06",
+        "Frequency": "10 -20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:06 - 21:01",
+            "PeriodBack": "05:06 - 21:02"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:06 - 21:01",
+            "PeriodBack": "05:06 - 21:02"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:06"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 40,
+        "Name": "40 - Công viên Thống Nhất - Văn Lâm",
+        "FleedCode": "40",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 22h00 ; 12 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,22:00;0|T7|05:00,22:00;0|CN|05:00,22:00;###1|T2 - T6|05:00,22:00;1|T7|05:00,22:00;1|CN|05:00,22:00",
+        "Frequency": "12 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 22:00",
+            "PeriodBack": "05:00 - 22:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 22:00",
+            "PeriodBack": "05:00 - 22:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 22:00",
+            "PeriodBack": "05:00 - 22:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 41,
+        "Name": "41 - Nam Thăng Long - BX Giáp Bát",
+        "FleedCode": "41",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 17 - 19 - 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,19:45;0|T7|05:00,19:45;0|CN|05:00,19:45;###1|T2 - T6|05:10,21:00;1|T7|05:10,21:00;1|CN|05:10,21:00",
+        "Frequency": "17 - 19 - 20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 19:45",
+            "PeriodBack": "05:10 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 19:45",
+            "PeriodBack": "05:10 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 19:45",
+            "PeriodBack": "05:10 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 42,
+        "Name": "42 - Bến xe Giáp Bát - Đức Giang",
+        "FleedCode": "42",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5:00 - 21:00 ; 15 - 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "15 - 20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 43,
+        "Name": "43 - Công viên Thống Nhất - Thị trấn Đông Anh",
+        "FleedCode": "43",
+        "Cost": 8000,
+        "NameNoSign": null,
+        "Data": "5:00 - 20:00 ; 10 - 15 - 20 phút/chuyến ; 8000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,20:00;0|T7|05:00,20:00;0|CN|05:00,20:00;###1|T2 - T6|05:00,20:00;1|T7|05:00,20:00;1|CN|05:00,20:00",
+        "Frequency": "10 - 15 - 20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 20:00",
+            "PeriodBack": "05:00 - 20:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 20:00",
+            "PeriodBack": "05:00 - 20:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 20:00",
+            "PeriodBack": "05:00 - 20:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 44,
+        "Name": "44 - Trần Khánh Dư - BX Mỹ Đình",
+        "FleedCode": "44",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 10 - 15 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,20:35;0|T7|05:00,20:35;0|CN|05:00,20:35;###1|T2 - T6|05:05,21:00;1|T7|05:05,21:00;1|CN|05:05,21:00",
+        "Frequency": "10 - 15 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 20:35",
+            "PeriodBack": "05:05 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 20:35",
+            "PeriodBack": "05:05 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 20:35",
+            "PeriodBack": "05:05 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 45,
+        "Name": "45 - Times City - BX Nam Thăng Long",
+        "FleedCode": "45",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 20h00 ; 15 - 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,19:46;0|T7|05:00,19:46;0|CN|05:00,19:46;###1|T2 - T6|05:15,21:00;1|T7|05:15,21:00;1|CN|05:15,21:00",
+        "Frequency": "15 - 20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 19:46",
+            "PeriodBack": "05:15 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 19:46",
+            "PeriodBack": "05:15 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 19:46",
+            "PeriodBack": "05:15 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 46,
+        "Name": "46 - Bến xe Mỹ Đình - Thị trấn Đông Anh",
+        "FleedCode": "46",
+        "Cost": 8000,
+        "NameNoSign": null,
+        "Data": "05h00 - 21h00 ; 10 - 15 phút/chuy?n ; 8000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:40,21:00;0|T7|05:40,21:00;0|CN|05:40,21:00;###1|T2 - T6|05:00,19:50;1|T7|05:00,19:50;1|CN|05:00,19:50",
+        "Frequency": "10 - 15 phút/chuy?n",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:40 - 21:00",
+            "PeriodBack": "05:00 - 19:50"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:40 - 21:00",
+            "PeriodBack": "05:00 - 19:50"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:40 - 21:00",
+            "PeriodBack": "05:00 - 19:50"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 47,
+        "Name": "47A - Long Biên - Bát Tràng",
+        "FleedCode": "47A",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:10,21:00;1|T7|05:10,21:00;1|CN|05:10,21:00",
+        "Frequency": "20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:10 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:10 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:10 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 48,
+        "Name": "48 - Bến xe Nước Ngầm - Chương Dương - Phúc Lợi (Chung cư Ruby City)",
+        "FleedCode": "48",
+        "Cost": 8000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h30 ; 15- 20 phút/chuyến ; 8000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "15- 20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 49,
+        "Name": "49 - Trần Khánh Dư - Nhổn",
+        "FleedCode": "49",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 10 - 15 - 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "10 - 15 - 20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 50,
+        "Name": "50 - Long Biên - Khu đô thị Vân Canh",
+        "FleedCode": "50",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00-21h00 ; 14-17 phút ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "14-17 phút",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 51,
+        "Name": "51 - Bến Xe Gia Lâm - Trần Vỹ (Học vện Tư Pháp)",
+        "FleedCode": "51",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 10 - 15 - 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "10 - 15 - 20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 52,
+        "Name": "52A - Công viên Thống Nhất - Lệ Chi",
+        "FleedCode": "52A",
+        "Cost": 8000,
+        "NameNoSign": null,
+        "Data": "5h06 - 21h07 ; 17 - 25 phút/chuyến ; 8000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:06,20:59;0|T7|05:06,20:59;0|CN|05:06,20:59;###1|T2 - T6|05:07,21:07;1|T7|05:07,21:07;1|CN|05:07,21:07",
+        "Frequency": "17 - 25 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:06 - 20:59",
+            "PeriodBack": "05:07 - 21:07"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:06 - 20:59",
+            "PeriodBack": "05:07 - 21:07"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:06 - 20:59",
+            "PeriodBack": "05:07 - 21:07"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 53,
+        "Name": "53A - Hoàng Quốc Việt - Đông Anh",
+        "FleedCode": "53A",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h12-20h30 ; 27 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,20:20;0|T7|05:00,20:20;0|CN|05:00,20:20;###1|T2 - T6|05:00,20:30;1|T7|05:00,20:30;1|CN|05:00,20:30",
+        "Frequency": "27 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 20:20",
+            "PeriodBack": "05:00 - 20:30"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 20:20",
+            "PeriodBack": "05:00 - 20:30"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 20:20",
+            "PeriodBack": "05:00 - 20:30"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 54,
+        "Name": "54 - Long Biên - Bắc Ninh",
+        "FleedCode": "54",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "5h00-21h15 ; 15 phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,19:45;0|T7|05:00,19:45;0|CN|05:00,19:45;###1|T2 - T6|05:00,21:15;1|T7|05:00,21:15;1|CN|05:00,21:15",
+        "Frequency": "15 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 19:45",
+            "PeriodBack": "05:00 - 21:15"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 19:45",
+            "PeriodBack": "05:00 - 21:15"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 19:45",
+            "PeriodBack": "05:00 - 21:15"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 55,
+        "Name": "55A - Khu đô thị Times City - Cầu Giấy",
+        "FleedCode": "55A",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h40-20h50 ; 20 -22 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:20,20:20;0|T7|05:20,20:20;0|CN|05:25,20:50;###1|T2 - T6|05:00,19:50;1|T7|05:00,19:50;1|CN|05:00,19:42",
+        "Frequency": "20 -22 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:20 - 20:20",
+            "PeriodBack": "05:00 - 19:50"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:20 - 20:20",
+            "PeriodBack": "05:00 - 19:50"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:25 - 20:50",
+            "PeriodBack": "05:00 - 19:42"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 56,
+        "Name": "56A - Mỹ Đình - Núi Đôi",
+        "FleedCode": "56A",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "Mỹ Đình (5h35-20h40) - Núi Đôi (5h30-20h00) ; 25-30 phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|04:45,21:00;0|T7|04:45,21:00;0|CN|04:45,21:40;###1|T2 - T6|04:30,21:30;1|T7|04:30,21:30;1|CN|04:45,21:30",
+        "Frequency": "25-30 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "04:45 - 21:00",
+            "PeriodBack": "04:30 - 21:30"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "04:45 - 21:00",
+            "PeriodBack": "04:30 - 21:30"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "04:45 - 21:40",
+            "PeriodBack": "04:45 - 21:30"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 57,
+        "Name": "57 - Nam Thăng Long - Khu công nghiệp Phú Nghĩa",
+        "FleedCode": "57",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "4h45 – 21h15 ; 10 - 15 - 20 phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|04:45,19:45;0|T7|04:45,19:45;0|CN|04:45,19:30;###1|T2 - T6|05:30,21:15;1|T7|05:30,21:15;1|CN|05:50,21:15",
+        "Frequency": "10 - 15 - 20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "04:45 - 19:45",
+            "PeriodBack": "05:30 - 21:15"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "04:45 - 19:45",
+            "PeriodBack": "05:30 - 21:15"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "04:45 - 19:30",
+            "PeriodBack": "05:50 - 21:15"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 58,
+        "Name": "58 - Long Biên - Thạch Đà",
+        "FleedCode": "58",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "5h00-21h00 ; 10 - 15 phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,20:00;1|T7|05:00,20:00;1|CN|05:00,19:30",
+        "Frequency": "10 - 15 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 20:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 20:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 19:30"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 59,
+        "Name": "59 - TT Đông Anh - Học viện Nông nghiệp Việt Nam",
+        "FleedCode": "59",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "5h00 – 21h30 ; 10 - 15 phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,21:30;1|T7|05:00,21:30;1|CN|05:00,21:30",
+        "Frequency": "10 - 15 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:30"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:30"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:30"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 60,
+        "Name": "60A - KĐT Pháp Vân, Tứ Hiệp - Công Viên Nước Hồ Tây",
+        "FleedCode": "60A",
+        "Cost": 8000,
+        "NameNoSign": null,
+        "Data": "5h00 – 21h00 ; 15- 20 phút/chuyến ; 8000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,20:30;1|T7|05:00,20:30;1|CN|05:00,20:30",
+        "Frequency": "15- 20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 20:30"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 20:30"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 20:30"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 62,
+        "Name": "62 - Bến xe Yên Nghĩa - Bến xe Thường Tín",
+        "FleedCode": "62",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00-21h00 ; 10 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:05;0|T7|05:00,21:05;0|CN|05:00,21:05;###1|T2 - T6|05:00,21:05;1|T7|05:00,21:05;1|CN|05:00,21:05",
+        "Frequency": "10 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:05",
+            "PeriodBack": "05:00 - 21:05"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:05",
+            "PeriodBack": "05:00 - 21:05"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:05",
+            "PeriodBack": "05:00 - 21:05"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 63,
+        "Name": "63 - Khu công nghiệp Bắc Thăng Long - Tiến Thịnh (Mê Linh)",
+        "FleedCode": "63",
+        "Cost": 0,
+        "NameNoSign": null,
+        "Data": "5h00-21h30 ; 15-20 phút/Chuyến ; 0VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,20:30;0|T7|05:00,20:30;0|CN|05:00,20:00;###1|T2 - T6|05:20,21:35;1|T7|05:20,21:35;1|CN|05:30,21:10",
+        "Frequency": "15-20 phút/Chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 20:30",
+            "PeriodBack": "05:20 - 21:35"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 20:30",
+            "PeriodBack": "05:20 - 21:35"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 20:00",
+            "PeriodBack": "05:30 - 21:10"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 64,
+        "Name": "64 - BX Mỹ Đình - Phố Nỉ - TTTM Bình An",
+        "FleedCode": "64",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 15 phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "15 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 65,
+        "Name": "65 - Thụy Lâm (Đông Anh) - Long Biên",
+        "FleedCode": "65",
+        "Cost": 8000,
+        "NameNoSign": null,
+        "Data": "5h00-21h00 ; 15 - 20- 30 phút/chuyến ; 8000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "15 - 20- 30 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 66,
+        "Name": "66 - Bến xe Yên Nghĩa - Phùng",
+        "FleedCode": "66",
+        "Cost": 8000,
+        "NameNoSign": null,
+        "Data": "5h00 - 20h30 ; 20 - 30 phút/Chuyến ; 8000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,20:30;0|T7|05:00,20:30;0|CN|05:00,20:30;###1|T2 - T6|05:00,20:30;1|T7|05:00,20:30;1|CN|05:00,20:30",
+        "Frequency": "20 - 30 phút/Chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 20:30",
+            "PeriodBack": "05:00 - 20:30"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 20:30",
+            "PeriodBack": "05:00 - 20:30"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 20:30",
+            "PeriodBack": "05:00 - 20:30"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 67,
+        "Name": "67 - Phùng - Bến xe Sơn Tây",
+        "FleedCode": "67",
+        "Cost": 8000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 20 - 30 phút/Chuyến ; 8000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,17:00;0|CN|11:20,21:00;###1|T2 - T6|05:00,21:00;1|T7|05:00,17:00;1|CN|12:00,21:00",
+        "Frequency": "20 - 30 phút/Chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 17:00",
+            "PeriodBack": "05:00 - 17:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "11:20 - 21:00",
+            "PeriodBack": "12:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 69,
+        "Name": "69 - Long Biên - Dương Quang (Gia Lâm)",
+        "FleedCode": "69",
+        "Cost": 8000,
+        "NameNoSign": null,
+        "Data": "5h00  - 20h15 ; 20 - 25 phút/chuyến ; 8000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,20:00;0|T7|05:00,20:00;0|CN|05:00,20:00;###1|T2 - T6|05:05,20:15;1|T7|05:05,20:15;1|CN|05:05,20:15",
+        "Frequency": "20 - 25 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 20:00",
+            "PeriodBack": "05:05 - 20:15"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 20:00",
+            "PeriodBack": "05:05 - 20:15"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 20:00",
+            "PeriodBack": "05:05 - 20:15"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 72,
+        "Name": "72 - Bến xe Yên Nghĩa - Xuân Mai",
+        "FleedCode": "72",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 15-20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "15-20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 74,
+        "Name": "74 - Bến xe Mỹ Đình - Xuân Khanh",
+        "FleedCode": "74",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "5:00 - 20:30 ; 10 phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,20:30;0|T7|05:00,20:30;0|CN|05:00,20:30;###1|T2 - T6|05:00,20:30;1|T7|05:00,20:30;1|CN|05:00,20:30",
+        "Frequency": "10 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 20:30",
+            "PeriodBack": "05:00 - 20:30"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 20:30",
+            "PeriodBack": "05:00 - 20:30"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 20:30",
+            "PeriodBack": "05:00 - 20:30"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 84,
+        "Name": "84 - Cầu Diễn - Khu đô thị Linh Đàm",
+        "FleedCode": "84",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 85,
+        "Name": "85 - Công viên Nghĩa Đô - Khu đô thị Thanh Hà",
+        "FleedCode": "85",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 20-30 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,20:50;1|T7|05:00,20:50;1|CN|05:00,20:50",
+        "Frequency": "20-30 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 20:50"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 20:50"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 20:50"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 87,
+        "Name": "87 - Bến xe Mỹ Đình - Quốc Oai - Xuân Mai",
+        "FleedCode": "87",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "05h00 - 19h45 ; 15 - 20 - 30 phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,19:00;0|T7|05:00,19:00;0|CN|05:00,19:00;###1|T2 - T6|05:05,20:30;1|T7|05:05,20:30;1|CN|05:05,20:30",
+        "Frequency": "15 - 20 - 30 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 19:00",
+            "PeriodBack": "05:05 - 20:30"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 19:00",
+            "PeriodBack": "05:05 - 20:30"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 19:00",
+            "PeriodBack": "05:05 - 20:30"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 88,
+        "Name": "88 - Bến xe Mỹ Đình - Hòa Lạc - Xuân Mai",
+        "FleedCode": "88",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "BX Mỹ Đình(5h05 - 18h30); Xuân Mai (5h00 - 20h10) ; 15-25 phút/chuyến. ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,19:15;0|T7|05:00,19:15;0|CN|05:00,19:15;###1|T2 - T6|05:05,20:55;1|T7|05:05,20:55;1|CN|05:05,20:55",
+        "Frequency": "15-25 phút/chuyến.",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 19:15",
+            "PeriodBack": "05:05 - 20:55"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 19:15",
+            "PeriodBack": "05:05 - 20:55"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 19:15",
+            "PeriodBack": "05:05 - 20:55"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 89,
+        "Name": "89 - Bến xe Yên Nghĩa - Thạch Thất - Bến xe Sơn Tây",
+        "FleedCode": "89",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "5h00 - 20h46 ; 20 phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,20:50;0|T7|05:00,20:50;0|CN|05:00,20:50;###1|T2 - T6|05:00,20:10;1|T7|05:00,20:10;1|CN|05:00,20:10",
+        "Frequency": "20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 20:50",
+            "PeriodBack": "05:00 - 20:10"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 20:50",
+            "PeriodBack": "05:00 - 20:10"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 20:50",
+            "PeriodBack": "05:00 - 20:10"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 90,
+        "Name": "90 - Hào Nam - Cầu Nhật Tân - Sân bay Nội Bài",
+        "FleedCode": "90",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "5h30-22h30 ; 20 phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:30,21:10;0|T7|05:30,21:10;0|CN|05:30,21:10;###1|T2 - T6|06:40,22:30;1|T7|06:40,22:30;1|CN|06:40,22:30",
+        "Frequency": "20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:30 - 21:10",
+            "PeriodBack": "06:40 - 22:30"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:30 - 21:10",
+            "PeriodBack": "06:40 - 22:30"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:30 - 21:10",
+            "PeriodBack": "06:40 - 22:30"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 91,
+        "Name": "91 - Bến xe Yên Nghĩa - Kim Bài - Phú Túc",
+        "FleedCode": "91",
+        "Cost": 8000,
+        "NameNoSign": null,
+        "Data": "BX Yên Nghĩa (5h00-20h40); Phú Túc (5h00-21h30) ; 13-20 phút/ chuyến ; 8000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,20:00;1|T7|05:00,20:00;1|CN|05:00,20:00",
+        "Frequency": "13-20 phút/ chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 20:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 20:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 20:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 92,
+        "Name": "92 - Nhổn - Phú Sơn (Ba Vì)",
+        "FleedCode": "92",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "Nhổn (5h00-21h00); Tây Đằng (4h30-21h00) ; 10-15 phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|04:30,21:00;1|T7|04:30,21:00;1|CN|04:30,21:00",
+        "Frequency": "10-15 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "04:30 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "04:30 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "04:30 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 93,
+        "Name": "93 - Nam Thăng Long - Bắc Sơn (Sóc Sơn)",
+        "FleedCode": "93",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "Nam Thăng Long(5h05-18h50); Bắc Sơn (5h25-20h45) ; 22 - 25 phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,18:49;0|T7|05:00,18:49;0|CN|05:00,18:49;###1|T2 - T6|05:20,20:33;1|T7|05:20,20:33;1|CN|05:20,20:33",
+        "Frequency": "22 - 25 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 18:49",
+            "PeriodBack": "05:20 - 20:33"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 18:49",
+            "PeriodBack": "05:20 - 20:33"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 18:49",
+            "PeriodBack": "05:20 - 20:33"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 94,
+        "Name": "94 - Bến xe Giáp Bát - Kim Bài",
+        "FleedCode": "94",
+        "Cost": 8000,
+        "NameNoSign": null,
+        "Data": "5h05 - 21h20 ; 20-25 phút/chuyến ; 8000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:05,20:05;0|T7|05:05,20:05;0|CN|05:05,20:05;###1|T2 - T6|05:20,21:20;1|T7|05:20,21:20;1|CN|05:20,21:20",
+        "Frequency": "20-25 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:05 - 20:05",
+            "PeriodBack": "05:20 - 21:20"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:05 - 20:05",
+            "PeriodBack": "05:20 - 21:20"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:05 - 20:05",
+            "PeriodBack": "05:20 - 21:20"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 95,
+        "Name": "95 - Nam Thăng Long - Xuân Hòa",
+        "FleedCode": "95",
+        "Cost": 8000,
+        "NameNoSign": null,
+        "Data": "Nam Thăng Long (5h00-19h45);Xuân Hòa (5h15-21h05) ; 20 phút/chuyến ; 8000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,19:30;0|T7|05:00,19:30;0|CN|05:00,19:30;###1|T2 - T6|05:20,20:50;1|T7|05:20,20:50;1|CN|05:20,20:50",
+        "Frequency": "20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 19:30",
+            "PeriodBack": "05:20 - 20:50"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 19:30",
+            "PeriodBack": "05:20 - 20:50"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 19:30",
+            "PeriodBack": "05:20 - 20:50"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 96,
+        "Name": "96 - Công viên Nghĩa Đô - Đông Anh",
+        "FleedCode": "96",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "5h00 - 20h10 ; 20 - 25 phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,20:10;0|T7|05:00,20:10;0|CN|05:00,20:10;###1|T2 - T6|05:00,20:20;1|T7|05:00,20:20;1|CN|05:00,20:20",
+        "Frequency": "20 - 25 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 20:10",
+            "PeriodBack": "05:00 - 20:20"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 20:10",
+            "PeriodBack": "05:00 - 20:20"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 20:10",
+            "PeriodBack": "05:00 - 20:20"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 97,
+        "Name": "97 - Hoài Đức - Công viên Nghĩa Đô",
+        "FleedCode": "97",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 20 - 30 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "20 - 30 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 98,
+        "Name": "98 - Yên Phụ - Gia Thụy - Aeon Mall Long Biên",
+        "FleedCode": "98",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:05,21:00;1|T7|05:05,21:00;1|CN|05:05,21:00",
+        "Frequency": "20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:05 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:05 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:05 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 99,
+        "Name": "99 - Kim Mã - Ngũ Hiệp (Thanh Trì)",
+        "FleedCode": "99",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h10 ; 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,21:10;1|T7|05:00,21:10;1|CN|05:00,21:10",
+        "Frequency": "20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:10"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:10"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:10"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 100,
+        "Name": "100 - Long Biên - Khu đô thị Đặng Xá",
+        "FleedCode": "100",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h10 ; 20 - 22 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:10;0|T7|05:00,21:10;0|CN|05:00,21:10;###1|T2 - T6|05:05,21:10;1|T7|05:05,21:10;1|CN|05:05,21:10",
+        "Frequency": "20 - 22 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:10",
+            "PeriodBack": "05:05 - 21:10"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:10",
+            "PeriodBack": "05:05 - 21:10"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:10",
+            "PeriodBack": "05:05 - 21:10"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 101,
+        "Name": "101A - Bến xe Giáp Bát - Vân Đình",
+        "FleedCode": "101A",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h25 ; 22 - 30 phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,20:45;1|T7|05:00,20:45;1|CN|05:00,20:45",
+        "Frequency": "22 - 30 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 20:45"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 20:45"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 20:45"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 102,
+        "Name": "102 - Bến xe Yên Nghĩa - Vân Đình",
+        "FleedCode": "102",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h20 ; 20 - 30 phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:20;0|T7|05:00,21:20;0|CN|05:00,21:20;###1|T2 - T6|05:00,20:20;1|T7|05:00,20:20;1|CN|05:00,20:20",
+        "Frequency": "20 - 30 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:20",
+            "PeriodBack": "05:00 - 20:20"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:20",
+            "PeriodBack": "05:00 - 20:20"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:20",
+            "PeriodBack": "05:00 - 20:20"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 103,
+        "Name": "103A - Bến xe Mỹ Đình - Hương Sơn",
+        "FleedCode": "103A",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "5h02-20h00 ; 15-25phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,20:30;0|T7|05:00,20:30;0|CN|05:00,20:30;###1|T2 - T6|05:00,20:30;1|T7|05:00,20:30;1|CN|05:00,20:30",
+        "Frequency": "15-25phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 20:30",
+            "PeriodBack": "05:00 - 20:30"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 20:30",
+            "PeriodBack": "05:00 - 20:30"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 20:30",
+            "PeriodBack": "05:00 - 20:30"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 104,
+        "Name": "104 - Mỹ Đình - BX Nước Ngầm",
+        "FleedCode": "104",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 20 - 30 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:25;0|T7|05:00,21:25;0|CN|05:00,21:25;###1|T2 - T6|04:45,21:06;1|T7|04:45,21:06;1|CN|04:45,21:06",
+        "Frequency": "20 - 30 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:25",
+            "PeriodBack": "04:45 - 21:06"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:25",
+            "PeriodBack": "04:45 - 21:06"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:25",
+            "PeriodBack": "04:45 - 21:06"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 105,
+        "Name": "105 - Đô Nghĩa - Cầu Giấy",
+        "FleedCode": "105",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 15-20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "15-20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 108,
+        "Name": "108 - Bến xe Thường Tín - Minh Tân",
+        "FleedCode": "108",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "4h25 - 21h00 ; 20 - 25 - 30 - 35 - 40 phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|04:25,19:30;0|T7|04:25,19:30;0|CN|04:25,19:30;###1|T2 - T6|05:15,21:00;1|T7|05:15,21:00;1|CN|05:15,21:00",
+        "Frequency": "20 - 25 - 30 - 35 - 40 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "04:25 - 19:30",
+            "PeriodBack": "05:15 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "04:25 - 19:30",
+            "PeriodBack": "05:15 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "04:25 - 19:30",
+            "PeriodBack": "05:15 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 109,
+        "Name": "109 - Mỹ Đình - Nội Bài",
+        "FleedCode": "109",
+        "Cost": 8000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 20 - 30 phút/chuyến ; 8000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:05,21:30;1|T7|05:05,21:30;1|CN|05:05,21:30",
+        "Frequency": "20 - 30 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:05 - 21:30"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:05 - 21:30"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:05 - 21:30"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 110,
+        "Name": "110 - BX Sơn Tây - Vườn Quốc gia Ba Vì - Đá Chông",
+        "FleedCode": "110",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 19h30 ; 20- 25- 30 -35 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,18:20;0|T7|05:00,18:20;0|CN|05:00,18:20;###1|T2 - T6|05:45,19:30;1|T7|05:45,19:30;1|CN|05:45,19:30",
+        "Frequency": "20- 25- 30 -35 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 18:20",
+            "PeriodBack": "05:45 - 19:30"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 18:20",
+            "PeriodBack": "05:45 - 19:30"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 18:20",
+            "PeriodBack": "05:45 - 19:30"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 111,
+        "Name": "111 - BX Sơn Tây - Bất Bạt",
+        "FleedCode": "111",
+        "Cost": 8000,
+        "NameNoSign": null,
+        "Data": "4h30-20h20 ; 25 phút/chuyến ; 8000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|04:30,19:40;0|T7|04:30,19:40;0|CN|04:30,19:40;###1|T2 - T6|05:48,20:20;1|T7|05:48,20:20;1|CN|05:48,20:20",
+        "Frequency": "25 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "04:30 - 19:40",
+            "PeriodBack": "05:48 - 20:20"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "04:30 - 19:40",
+            "PeriodBack": "05:48 - 20:20"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "04:30 - 19:40",
+            "PeriodBack": "05:48 - 20:20"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 112,
+        "Name": "112 - Nam Thăng Long - Thạch Đà (Mê Linh)",
+        "FleedCode": "112",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "Nam Thăng Long(4h45-19h42); Thạch Đà (5h19-20h16) ; 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|04:45,19:30;0|T7|04:45,19:30;0|CN|04:45,19:30;###1|T2 - T6|05:10,19:55;1|T7|05:10,19:55;1|CN|05:10,19:55",
+        "Frequency": "20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "04:45 - 19:30",
+            "PeriodBack": "05:10 - 19:55"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "04:45 - 19:30",
+            "PeriodBack": "05:10 - 19:55"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "04:45 - 19:30",
+            "PeriodBack": "05:10 - 19:55"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 113,
+        "Name": "113 - Đại Thắng (Phú Xuyên) - Bến đò Vườn Chuối",
+        "FleedCode": "113",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 18h30 ; 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,18:30;0|T7|05:00,18:30;0|CN|05:00,18:30;###1|T2 - T6|05:00,18:30;1|T7|05:00,18:30;1|CN|05:00,18:30",
+        "Frequency": "20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 18:30",
+            "PeriodBack": "05:00 - 18:30"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 18:30",
+            "PeriodBack": "05:00 - 18:30"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 18:30",
+            "PeriodBack": "05:00 - 18:30"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 114,
+        "Name": "114 - Bến xe Yên Nghĩa - Miếu Môn",
+        "FleedCode": "114",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "Đầu A:5h00-20h30; Đầu B:5h00-21h00 ; 20-25-30 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,20:30;0|T7|05:00,20:30;0|CN|05:00,20:30;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "20-25-30 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 20:30",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 20:30",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 20:30",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 115,
+        "Name": "115 - Thị trấn Vân Đình - Xuân Mai (Bãi đỗ xe buýt - Trường Đại Học Lâm Nghiệp)",
+        "FleedCode": "115",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "5h15-20h30 ; 20 - 21 - 25 phút/Chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:15,20:30;0|T7|05:15,20:30;0|CN|05:15,20:30;###1|T2 - T6|05:20,20:25;1|T7|05:20,20:25;1|CN|05:20,20:25",
+        "Frequency": "20 - 21 - 25 phút/Chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:15 - 20:30",
+            "PeriodBack": "05:20 - 20:25"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:15 - 20:30",
+            "PeriodBack": "05:20 - 20:25"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:15 - 20:30",
+            "PeriodBack": "05:20 - 20:25"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 116,
+        "Name": "116 - Yên Trung (Thạch Thất) - KCN Phú Nghĩa",
+        "FleedCode": "116",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "Yên Trung (5h00-20h30); KCN Phú Nghĩa (5h00-20h00) ; 20 - 25 - 30 phút/Chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,20:00;0|T7|05:00,20:00;0|CN|05:00,20:00;###1|T2 - T6|05:00,20:42;1|T7|05:00,20:42;1|CN|05:00,20:42",
+        "Frequency": "20 - 25 - 30 phút/Chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 20:00",
+            "PeriodBack": "05:00 - 20:42"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 20:00",
+            "PeriodBack": "05:00 - 20:42"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 20:00",
+            "PeriodBack": "05:00 - 20:42"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 117,
+        "Name": "117 - Hòa Lạc - Nhổn",
+        "FleedCode": "117",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "5h30-20h30 ; 20 - 25 phút/Chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,20:20;0|T7|05:00,20:20;0|CN|05:00,20:20;###1|T2 - T6|05:00,20:40;1|T7|05:00,20:40;1|CN|05:00,20:40",
+        "Frequency": "20 - 25 phút/Chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 20:20",
+            "PeriodBack": "05:00 - 20:40"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 20:20",
+            "PeriodBack": "05:00 - 20:40"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 20:20",
+            "PeriodBack": "05:00 - 20:40"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 118,
+        "Name": "118 - BX Sơn Tây - Quốc lộ 32 - Bất Bạt",
+        "FleedCode": "118",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "BX Sơn Tây: 5h10-19h30;Bất Bạt 4h45h-19h00 ; 20-25-30 phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:10,20:50;0|T7|05:10,20:50;0|CN|05:10,20:50;###1|T2 - T6|05:00,20:00;1|T7|05:00,20:00;1|CN|05:00,20:00",
+        "Frequency": "20-25-30 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:10 - 20:50",
+            "PeriodBack": "05:00 - 20:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:10 - 20:50",
+            "PeriodBack": "05:00 - 20:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:10 - 20:50",
+            "PeriodBack": "05:00 - 20:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 119,
+        "Name": "119 - Hòa Lạc - Bất Bạt (Ba Vì)",
+        "FleedCode": "119",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "Đầu A:5h30-20h30; Đầu B:5h00-19h50 ; 20 - 25 phút/Chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:30,20:30;0|T7|05:30,20:30;0|CN|05:30,20:30;###1|T2 - T6|05:00,19:30;1|T7|05:00,19:30;1|CN|05:00,19:30",
+        "Frequency": "20 - 25 phút/Chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:30 - 20:30",
+            "PeriodBack": "05:00 - 19:30"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:30 - 20:30",
+            "PeriodBack": "05:00 - 19:30"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:30 - 20:30",
+            "PeriodBack": "05:00 - 19:30"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 122,
+        "Name": "122 - Bến xe Gia Lâm - KCN Bắc Thăng Long",
+        "FleedCode": "122",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 20 - 25 phút/lượt ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "20 - 25 phút/lượt",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 123,
+        "Name": "123 - Bến xe Yên Nghĩa - Hồng Dương (Thanh Oai)",
+        "FleedCode": "123",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "05h00 - 21h00 ; 20 - 30 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:10,20:10;1|T7|05:10,20:10;1|CN|05:10,20:10",
+        "Frequency": "20 - 30 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:10 - 20:10"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:10 - 20:10"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:10 - 20:10"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 124,
+        "Name": "124 - BX Yên Nghĩa - Chúc Sơn - Thị trấn Kim Bài",
+        "FleedCode": "124",
+        "Cost": 0,
+        "NameNoSign": null,
+        "Data": " ;  ; 0VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,19:35;0|T7|05:00,19:35;0|CN|05:00,19:35;###1|T2 - T6|05:05,21:05;1|T7|05:05,21:05;1|CN|05:05,21:05",
+        "Frequency": "",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 19:35",
+            "PeriodBack": "05:05 - 21:05"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 19:35",
+            "PeriodBack": "05:05 - 21:05"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 19:35",
+            "PeriodBack": "05:05 - 21:05"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 125,
+        "Name": "125 - Bến xe Thường Tín - Tế Tiêu",
+        "FleedCode": "125",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "5h00 - 20h00 ; 20 - 25 phút/Chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,20:00;0|T7|05:00,20:00;0|CN|05:00,20:00;###1|T2 - T6|05:00,19:35;1|T7|05:00,19:35;1|CN|05:00,19:35",
+        "Frequency": "20 - 25 phút/Chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 20:00",
+            "PeriodBack": "05:00 - 19:35"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 20:00",
+            "PeriodBack": "05:00 - 19:35"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 20:00",
+            "PeriodBack": "05:00 - 19:35"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 126,
+        "Name": "126 - BX Sơn Tây - Trung Hà (Ba Vì)",
+        "FleedCode": "126",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "5h00 - 20h00 ; 20-25 phút/lượt ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,20:30;0|T7|05:00,20:30;0|CN|05:00,20:30;###1|T2 - T6|05:00,20:00;1|T7|05:00,20:00;1|CN|05:00,20:00",
+        "Frequency": "20-25 phút/lượt",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 20:30",
+            "PeriodBack": "05:00 - 20:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 20:30",
+            "PeriodBack": "05:00 - 20:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 20:30",
+            "PeriodBack": "05:00 - 20:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 142,
+        "Name": "142 - Khu Ngoại Giao Đoàn - KĐT VinCom Long Biên",
+        "FleedCode": "142",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00. ; 14 - 15 - 20 phút/chuyến. ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:10,21:00;1|T7|05:10,21:00;1|CN|05:10,21:00",
+        "Frequency": "14 - 15 - 20 phút/chuyến.",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:10 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:10 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:10 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 143,
+        "Name": "143 - Hào Nam - Thị trấn Đông Anh",
+        "FleedCode": "143",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 22h00 ; 14 - 16 -28 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:30,22:00;0|T7|05:30,22:00;0|CN|05:30,22:00;###1|T2 - T6|05:00,20:50;1|T7|05:00,20:50;1|CN|05:00,20:50",
+        "Frequency": "14 - 16 -28 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:30 - 22:00",
+            "PeriodBack": "05:00 - 20:50"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:30 - 22:00",
+            "PeriodBack": "05:00 - 20:50"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:30 - 22:00",
+            "PeriodBack": "05:00 - 20:50"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 144,
+        "Name": "144 - Đại học Mỏ địa chất - Trần Khánh Dư",
+        "FleedCode": "144",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 20 - 25 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:06;0|T7|05:00,21:06;0|CN|05:00,21:06;###1|T2 - T6|05:00,21:06;1|T7|05:00,21:06;1|CN|05:00,21:06",
+        "Frequency": "20 - 25 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:06",
+            "PeriodBack": "05:00 - 21:06"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:06",
+            "PeriodBack": "05:00 - 21:06"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:06",
+            "PeriodBack": "05:00 - 21:06"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 145,
+        "Name": "145 - TTTM BigC Thăng Long - Công viên nước Hồ Tây",
+        "FleedCode": "145",
+        "Cost": 0,
+        "NameNoSign": null,
+        "Data": "5h00 - 22h00 ; 20-25-30 phút/chuyến ; 0VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,22:00;0|T7|05:00,22:00;0|CN|05:00,22:00;###1|T2 - T6|05:00,22:00;1|T7|05:00,22:00;1|CN|05:00,22:00",
+        "Frequency": "20-25-30 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 22:00",
+            "PeriodBack": "05:00 - 22:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 22:00",
+            "PeriodBack": "05:00 - 22:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 22:00",
+            "PeriodBack": "05:00 - 22:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 146,
+        "Name": "146 - Hào Nam (ga Cát Linh) - Hào Nam (ga Cát Linh)",
+        "FleedCode": "146",
+        "Cost": 0,
+        "NameNoSign": null,
+        "Data": "5h00-22h06 ; 14-15-28-30 phút/chuyến ; 0VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,22:00;0|T7|05:00,22:00;0|CN|05:00,22:00;###1|T2 - T6|05:00,22:00;1|T7|05:00,22:00;1|CN|05:00,22:00",
+        "Frequency": "14-15-28-30 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 22:00",
+            "PeriodBack": "05:00 - 22:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 22:00",
+            "PeriodBack": "05:00 - 22:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 22:00",
+            "PeriodBack": "05:00 - 22:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 157,
+        "Name": "157 - Bến xe Mỹ Đình - Bến xe Sơn Tây",
+        "FleedCode": "157",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "5h00 - 20h00 ; 15 - 20 phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,20:00;0|T7|05:00,20:00;0|CN|05:00,20:00;###1|T2 - T6|05:00,20:00;1|T7|05:00,20:00;1|CN|05:00,20:00",
+        "Frequency": "15 - 20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 20:00",
+            "PeriodBack": "05:00 - 20:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 20:00",
+            "PeriodBack": "05:00 - 20:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 20:00",
+            "PeriodBack": "05:00 - 20:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 158,
+        "Name": "158 - Bến xe Yên Nghĩa - Khu đô thị Đặng Xá (Gia Lâm)",
+        "FleedCode": "158",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 15 - 20 phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,20:30;1|T7|05:00,20:30;1|CN|05:00,20:30",
+        "Frequency": "15 - 20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 20:30"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 20:30"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 20:30"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 159,
+        "Name": "159 - Bệnh viện Bệnh nhiệt đới Trung ương CS 2 - Khu đô thị Times City.",
+        "FleedCode": "159",
+        "Cost": 8000,
+        "NameNoSign": null,
+        "Data": "05h00 -  21h00 ; 10 - 15 - 20 phút/chuyến ; 8000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,20:00;0|T7|05:00,20:00;0|CN|05:00,20:00",
+        "Frequency": "10 - 15 - 20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 20:00",
+            "PeriodBack": null
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 20:00",
+            "PeriodBack": null
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 20:00",
+            "PeriodBack": null
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 160,
+        "Name": "160 - Kim Lũ (Sóc Sơn) - Nam Thăng Long",
+        "FleedCode": "160",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "5h00 - 20h00 ; 15 - 20 phút/Chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,19:00;0|T7|05:00,19:00;0|CN|05:00,19:00;###1|T2 - T6|05:30,20:00;1|T7|05:30,20:00;1|CN|05:30,20:00",
+        "Frequency": "15 - 20 phút/Chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 19:00",
+            "PeriodBack": "05:30 - 20:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 19:00",
+            "PeriodBack": "05:30 - 20:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 19:00",
+            "PeriodBack": "05:30 - 20:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 161,
+        "Name": "161 - Cầu Giấy - Tam Hiệp",
+        "FleedCode": "161",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 20h00 ; 15- 20 phút/Chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,20:00;0|T7|05:00,20:00;0|CN|05:00,20:00;###1|T2 - T6|05:00,20:00;1|T7|05:00,20:00;1|CN|05:00,20:00",
+        "Frequency": "15- 20 phút/Chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 20:00",
+            "PeriodBack": "05:00 - 20:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 20:00",
+            "PeriodBack": "05:00 - 20:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 20:00",
+            "PeriodBack": "05:00 - 20:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 162,
+        "Name": "162 - Nhổn - Thọ An (Đan Phượng)",
+        "FleedCode": "162",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h20 - 19h30 ; 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:20,19:00;0|T7|05:20,19:00;0|CN|05:20,19:00;###1|T2 - T6|05:20,19:30;1|T7|05:20,19:30;1|CN|05:20,19:30",
+        "Frequency": "20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:20 - 19:00",
+            "PeriodBack": "05:20 - 19:30"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:20 - 19:00",
+            "PeriodBack": "05:20 - 19:30"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:20 - 19:00",
+            "PeriodBack": "05:20 - 19:30"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 163,
+        "Name": "163 - BX Yên Nghĩa - Hoài Đức",
+        "FleedCode": "163",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "5h00 - 19h30 ; 15 - 20 phút/Chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:20,19:00;0|T7|05:20,19:00;0|CN|05:20,19:00;###1|T2 - T6|05:20,19:30;1|T7|05:20,19:30;1|CN|05:20,19:30",
+        "Frequency": "15 - 20 phút/Chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:20 - 19:00",
+            "PeriodBack": "05:20 - 19:30"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:20 - 19:00",
+            "PeriodBack": "05:20 - 19:30"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:20 - 19:00",
+            "PeriodBack": "05:20 - 19:30"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 409,
+        "Name": "09A - Bờ Hồ - Cầu Giấy - Đại học Mỏ",
+        "FleedCode": "09A",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h05 ; 15 - 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,20:55;0|T7|05:00,22:05;0|CN|05:00,22:05;###1|T2 - T6|05:30,21:05;1|T7|05:30,22:00;1|CN|05:30,22:00",
+        "Frequency": "15 - 20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 20:55",
+            "PeriodBack": "05:30 - 21:05"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 22:05",
+            "PeriodBack": "05:30 - 22:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 22:05",
+            "PeriodBack": "05:30 - 22:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 414,
+        "Name": "14 - Bờ Hồ - Cổ Nhuế",
+        "FleedCode": "14",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 10 - 15 - 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:05;0|T7|05:01,21:03;0|CN|05:01,21:03;###1|T2 - T6|05:00,21:00;1|T7|05:01,21:01;1|CN|05:01,21:01",
+        "Frequency": "10 - 15 - 20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:05",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:01 - 21:03",
+            "PeriodBack": "05:01 - 21:01"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:01 - 21:03",
+            "PeriodBack": "05:01 - 21:01"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 418,
+        "Name": "18 - ĐH Kinh tế QD - ĐH Kinh tế QD",
+        "FleedCode": "18",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00-21h00 ; 15 -20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:02,20:57;###1|T2 - T6|05:07,21:07;1|T7|05:07,21:07;1|CN|05:09,21:04",
+        "Frequency": "15 -20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:07 - 21:07"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:07 - 21:07"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:02 - 20:57",
+            "PeriodBack": "05:09 - 21:04"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 426,
+        "Name": "26 - Mai Động - SVĐ Quốc gia",
+        "FleedCode": "26",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 22h30 ; 5- 10 - 15 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,22:30;0|T7|05:00,22:30;0|CN|05:00,22:30;###1|T2 - T6|05:00,22:30;1|T7|05:00,22:30;1|CN|05:00,22:30",
+        "Frequency": "5- 10 - 15 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 22:30",
+            "PeriodBack": "05:00 - 22:30"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 22:30",
+            "PeriodBack": "05:00 - 22:30"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 22:30",
+            "PeriodBack": "05:00 - 22:30"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 430,
+        "Name": "30 - Khu đô thị Gamuda - Bến xe Mỹ Đình",
+        "FleedCode": "30",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 10 - 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:18;0|T7|05:00,21:18;0|CN|05:00,21:18;###1|T2 - T6|05:00,21:15;1|T7|05:00,21:15;1|CN|05:00,21:15",
+        "Frequency": "10 - 20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:18",
+            "PeriodBack": "05:00 - 21:15"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:18",
+            "PeriodBack": "05:00 - 21:15"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:18",
+            "PeriodBack": "05:00 - 21:15"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 438,
+        "Name": "38 - BX Nam Thăng Long - Mai Động",
+        "FleedCode": "38",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h05 - 21h00 ; 15 - 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:10,21:00;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "15 - 20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:10 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 439,
+        "Name": "39 - Công viên Nghĩa Đô - Bệnh viện Nội tiết TW CS II",
+        "FleedCode": "39",
+        "Cost": 0,
+        "NameNoSign": null,
+        "Data": "5h00-21h00 ; 08-10-15 phút/chuyến ; 0VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "08-10-15 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 509,
+        "Name": "09ACT - Trần Khánh Dư - Đại học Mỏ",
+        "FleedCode": "09ACT",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 22h05 ; 15 - 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": true,
+        "OperationsTimeNew": "0|T2 - T6|05:00,20:55;0|T7|05:00,22:05;0|CN|05:00,22:05;###1|T2 - T6|05:30,21:05;1|T7|05:30,22:00;1|CN|05:30,22:00",
+        "Frequency": "15 - 20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 20:55",
+            "PeriodBack": "05:30 - 21:05"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 22:05",
+            "PeriodBack": "05:30 - 22:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 22:05",
+            "PeriodBack": "05:30 - 22:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 608,
+        "Name": "08BCT - Long Biên - Vạn Phúc",
+        "FleedCode": "08BCT",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h05 ; 20 phút/Chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": true,
+        "OperationsTimeNew": "0|T2 - T6|05:30,20:50;0|T7|05:30,20:50;0|CN|05:30,20:50;###1|T2 - T6|05:00,20:00;1|T7|05:00,20:00;1|CN|05:00,20:00",
+        "Frequency": "20 phút/Chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:30 - 20:50",
+            "PeriodBack": "05:00 - 20:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:30 - 20:50",
+            "PeriodBack": "05:00 - 20:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:30 - 20:50",
+            "PeriodBack": "05:00 - 20:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 609,
+        "Name": "09B - Bờ Hồ - Công viên Thống Nhất - Bến xe Mỹ Đình",
+        "FleedCode": "09B",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h01 - 22h05 ; 16 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:03,21:03;0|T7|05:03,22:05;0|CN|05:03,22:05;###1|T2 - T6|05:01,21:01;1|T7|05:01,22:05;1|CN|05:01,22:05",
+        "Frequency": "16 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:03 - 21:03",
+            "PeriodBack": "05:01 - 21:01"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:03 - 22:05",
+            "PeriodBack": "05:01 - 22:05"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:03 - 22:05",
+            "PeriodBack": "05:01 - 22:05"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 708,
+        "Name": "08B - Long Biên - Vạn Phúc",
+        "FleedCode": "08B",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h05 ; 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:30,20:50;0|T7|05:30,20:50;0|CN|05:30,20:50;###1|T2 - T6|05:00,20:00;1|T7|05:00,20:00;1|CN|05:00,20:00",
+        "Frequency": "20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:30 - 20:50",
+            "PeriodBack": "05:00 - 20:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:30 - 20:50",
+            "PeriodBack": "05:00 - 20:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:30 - 20:50",
+            "PeriodBack": "05:00 - 20:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 709,
+        "Name": "09BCT - Trần Khánh Dư - Bến xe Mỹ Đình",
+        "FleedCode": "09BCT",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h01 - 22h05 ; 16 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": true,
+        "OperationsTimeNew": "0|T2 - T6|05:03,21:03;0|T7|05:03,22:05;0|CN|05:03,22:05;###1|T2 - T6|05:01,21:01;1|T7|05:01,22:05;1|CN|05:01,22:05",
+        "Frequency": "16 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:03 - 21:03",
+            "PeriodBack": "05:01 - 21:01"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:03 - 22:05",
+            "PeriodBack": "05:01 - 22:05"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:03 - 22:05",
+            "PeriodBack": "05:01 - 22:05"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 771,
+        "Name": "E01 - BX. Mỹ Đình - KĐT. Ocean Park",
+        "FleedCode": "E01",
+        "Cost": 0,
+        "NameNoSign": null,
+        "Data": "05h00 - 22h30 ; 14 phút/chuyến ; 0VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:05,22:30;0|T7|05:05,22:30;0|CN|05:05,22:30;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "14 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:05 - 22:30",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:05 - 22:30",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:05 - 22:30",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 772,
+        "Name": "E02 - Hào Nam - KĐT Ocean Park",
+        "FleedCode": "E02",
+        "Cost": 8000,
+        "NameNoSign": null,
+        "Data": "05h00 - 22h00 ; 20 phút/chuyến ; 8000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,22:00;0|T7|05:00,22:00;0|CN|05:00,22:00;###1|T2 - T6|01:00,21:00;1|T7|01:00,21:00;1|CN|01:00,21:00",
+        "Frequency": "20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 22:00",
+            "PeriodBack": "01:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 22:00",
+            "PeriodBack": "01:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 22:00",
+            "PeriodBack": "01:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 773,
+        "Name": "E03 - Mỹ Đình (Hàm Nghi) - Ocean Park",
+        "FleedCode": "E03",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "05h00 - 22h30 ; 14 phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,22:30;0|T7|05:00,22:30;0|CN|05:00,22:30;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "14 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 22:30",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 22:30",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 22:30",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 774,
+        "Name": "E04 - KĐT Smart City - Vincom Long Biên",
+        "FleedCode": "E04",
+        "Cost": 8000,
+        "NameNoSign": null,
+        "Data": "05h00 - 21h00 ; 23 - 30 phút/Chuyến ; 8000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "23 - 30 phút/Chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 775,
+        "Name": "E05 - Long Biên - KĐT Smart City",
+        "FleedCode": "E05",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "05:00 - 22:30 ; 15 - 20 phút/Chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,22:30;0|T7|05:00,22:30;0|CN|05:00,22:30;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "15 - 20 phút/Chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 22:30",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 22:30",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 22:30",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 776,
+        "Name": "E06 - Bến xe Giáp Bát - KĐT Smart City",
+        "FleedCode": "E06",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "05h00 - 22h30 ; 15 - 20 phút/Chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:05,22:30;0|T7|05:05,22:30;0|CN|05:05,22:30;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "15 - 20 phút/Chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:05 - 22:30",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:05 - 22:30",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:05 - 22:30",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 778,
+        "Name": "E08 - Khu Liên Cơ Quan Sở Ngành HN - KĐT Times City",
+        "FleedCode": "E08",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "05h00 - 21h00 ; 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 779,
+        "Name": "E09 - KĐT Smart City - Công viên nước Hồ Tây",
+        "FleedCode": "E09",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "05h00 - 21h00 ; 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 803,
+        "Name": "03B - Bến xe Nước Ngầm - Giang Biên (Long Biên)",
+        "FleedCode": "03B",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00-20h00 ; 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:20,20:00;0|T7|05:20,20:00;0|CN|05:20,20:00;###1|T2 - T6|05:10,20:00;1|T7|05:10,20:00;1|CN|05:10,20:00",
+        "Frequency": "20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:20 - 20:00",
+            "PeriodBack": "05:10 - 20:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:20 - 20:00",
+            "PeriodBack": "05:10 - 20:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:20 - 20:00",
+            "PeriodBack": "05:10 - 20:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 806,
+        "Name": "06B - Bến xe Giáp Bát - Hồng Vân",
+        "FleedCode": "06B",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00-21h00 ; 40 phút/Chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:15,19:55;0|T7|05:15,19:55;0|CN|05:15,19:55;###1|T2 - T6|05:00,20:36;1|T7|05:00,20:36;1|CN|05:00,20:36",
+        "Frequency": "40 phút/Chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:15 - 19:55",
+            "PeriodBack": "05:00 - 20:36"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:15 - 19:55",
+            "PeriodBack": "05:00 - 20:36"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:15 - 19:55",
+            "PeriodBack": "05:00 - 20:36"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 810,
+        "Name": "10B - Long Biên - Trung Mầu",
+        "FleedCode": "10B",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 20h20 ; 25 -30 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:10,20:20;0|T7|05:10,20:20;0|CN|05:10,20:20;###1|T2 - T6|05:00,20:10;1|T7|05:00,20:10;1|CN|05:00,20:10",
+        "Frequency": "25 -30 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:10 - 20:20",
+            "PeriodBack": "05:00 - 20:10"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:10 - 20:20",
+            "PeriodBack": "05:00 - 20:10"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:10 - 20:20",
+            "PeriodBack": "05:00 - 20:10"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 811,
+        "Name": "11CT - Công viên Thống Nhất - Học viện Nông Nghiệp VIệt Nam",
+        "FleedCode": "11CT",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00  - 22h00 ; 10 - 12 - 15 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": true,
+        "OperationsTimeNew": "0|T2 - T6|05:00,22:00;0|T7|05:00,22:00;0|CN|05:00,22:00;###1|T2 - T6|05:00,22:00;1|T7|05:00,22:00;1|CN|05:00,22:00",
+        "Frequency": "10 - 12 - 15 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 22:00",
+            "PeriodBack": "05:00 - 22:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 22:00",
+            "PeriodBack": "05:00 - 22:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 22:00",
+            "PeriodBack": "05:00 - 22:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 820,
+        "Name": "20B - Nhổn - Bến xe Sơn Tây",
+        "FleedCode": "20B",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "5h00 - 20h04 ; 22 phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,19:30;0|T7|05:00,19:30;0|CN|05:00,19:30;###1|T2 - T6|05:00,19:50;1|T7|05:00,19:50;1|CN|05:00,19:50",
+        "Frequency": "22 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 19:30",
+            "PeriodBack": "05:00 - 19:50"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 19:30",
+            "PeriodBack": "05:00 - 19:50"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 19:30",
+            "PeriodBack": "05:00 - 19:50"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 821,
+        "Name": "21B - Duyên Thái - Bến xe Mỹ Đình",
+        "FleedCode": "21B",
+        "Cost": 8000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 15-20 phút/chuyến ; 8000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "15-20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 822,
+        "Name": "22B - BX Mỹ Đình - KĐT Kiến Hưng",
+        "FleedCode": "22B",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 22h30 ; 12-15-20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,22:30;0|T7|05:00,22:30;0|CN|05:00,22:30;###1|T2 - T6|05:00,22:30;1|T7|05:00,22:30;1|CN|05:00,22:30",
+        "Frequency": "12-15-20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 22:30",
+            "PeriodBack": "05:00 - 22:30"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 22:30",
+            "PeriodBack": "05:00 - 22:30"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 22:30",
+            "PeriodBack": "05:00 - 22:30"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 835,
+        "Name": "35B - Nam Thăng Long - Thanh Lâm",
+        "FleedCode": "35B",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h05 - 20h00 ; 15-30 phút/Chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,20:30;###1|T2 - T6|05:05,21:08;1|T7|05:05,21:08;1|CN|05:05,20:30",
+        "Frequency": "15-30 phút/Chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:05 - 21:08"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:05 - 21:08"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 20:30",
+            "PeriodBack": "05:05 - 20:30"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 836,
+        "Name": "36CT - Yên Phụ - Khu đô thị Linh Đàm",
+        "FleedCode": "36CT",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h05 - 21h00 ; 14 -20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": true,
+        "OperationsTimeNew": "0|T2 - T6|05:05,21:00;0|T7|05:05,21:00;0|CN|05:03,21:00;###1|T2 - T6|05:05,21:00;1|T7|05:05,21:00;1|CN|05:00,21:00",
+        "Frequency": "14 -20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:05 - 21:00",
+            "PeriodBack": "05:05 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:05 - 21:00",
+            "PeriodBack": "05:05 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:03 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 847,
+        "Name": "47B - Đại học Kinh tế Quốc dân - Kiêu Kỵ",
+        "FleedCode": "47B",
+        "Cost": 8000,
+        "NameNoSign": null,
+        "Data": "5h00-21h10 ; 20 - 25 phút/chuyến ; 8000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,20:45;0|T7|05:00,20:45;0|CN|05:00,20:45;###1|T2 - T6|05:00,21:10;1|T7|05:00,21:10;1|CN|05:00,21:10",
+        "Frequency": "20 - 25 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 20:45",
+            "PeriodBack": "05:00 - 21:10"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 20:45",
+            "PeriodBack": "05:00 - 21:10"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 20:45",
+            "PeriodBack": "05:00 - 21:10"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 852,
+        "Name": "52B - Công viên Thống Nhất - Đặng Xá",
+        "FleedCode": "52B",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h07-20h59 ; 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:10,21:15;1|T7|05:10,21:15;1|CN|05:10,21:15",
+        "Frequency": "20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:10 - 21:15"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:10 - 21:15"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:10 - 21:15"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 853,
+        "Name": "53B - Bến xe Mỹ Đình - Kim Hoa (Mê Linh)",
+        "FleedCode": "53B",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00-20h50 ; 22 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,20:20;0|T7|05:00,20:20;0|CN|05:00,20:20;###1|T2 - T6|05:00,20:30;1|T7|05:00,20:30;1|CN|05:00,20:30",
+        "Frequency": "22 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 20:20",
+            "PeriodBack": "05:00 - 20:30"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 20:20",
+            "PeriodBack": "05:00 - 20:30"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 20:20",
+            "PeriodBack": "05:00 - 20:30"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 855,
+        "Name": "55B - TTTM Aeon Mall - Cầu Giấy",
+        "FleedCode": "55B",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h20 - 20h50 ; 10-40 phút/Chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,20:40;0|T7|05:00,20:40;0|CN|05:00,20:35;###1|T2 - T6|06:11,21:00;1|T7|06:11,21:00;1|CN|06:00,20:50",
+        "Frequency": "10-40 phút/Chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 20:40",
+            "PeriodBack": "06:11 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 20:40",
+            "PeriodBack": "06:11 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 20:35",
+            "PeriodBack": "06:00 - 20:50"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 856,
+        "Name": "56B - Học viện Phật Giáo VN - Xuân Giang - Bắc Phú - Học viện Phật Giáo VN",
+        "FleedCode": "56B",
+        "Cost": 8000,
+        "NameNoSign": null,
+        "Data": "4h50 - 18h40 ; 20- 25 phút/Chuyến ; 8000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,19:30;0|T7|05:00,19:30;0|CN|05:00,19:30;###1|T2 - T6|05:10,19:45;1|T7|05:10,19:45;1|CN|05:10,19:45",
+        "Frequency": "20- 25 phút/Chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 19:30",
+            "PeriodBack": "05:10 - 19:45"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 19:30",
+            "PeriodBack": "05:10 - 19:45"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 19:30",
+            "PeriodBack": "05:10 - 19:45"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 860,
+        "Name": "60B - Bến xe Nước Ngầm - BV Bệnh nhiệt đới TƯ (CS2)",
+        "FleedCode": "60B",
+        "Cost": 8000,
+        "NameNoSign": null,
+        "Data": "4h50 – 21h00 ; 10 - 15 phút/chuyến ; 8000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|04:50,21:00;0|T7|04:50,21:00;0|CN|04:50,21:00;###1|T2 - T6|05:00,20:00;1|T7|05:00,20:00;1|CN|05:00,20:00",
+        "Frequency": "10 - 15 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "04:50 - 21:00",
+            "PeriodBack": "05:00 - 20:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "04:50 - 21:00",
+            "PeriodBack": "05:00 - 20:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "04:50 - 21:00",
+            "PeriodBack": "05:00 - 20:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 861,
+        "Name": "61 - Dục Tú (Đông Anh) - CV Cầu Giấy",
+        "FleedCode": "61",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "5h00 – 21h00 ; 10- 15 – 20 phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,20:00;0|T7|05:00,20:00;0|CN|05:00,20:00;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "10- 15 – 20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 20:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 20:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 20:00",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 866,
+        "Name": "06C - Bến xe Giáp Bát - Phú Minh",
+        "FleedCode": "06C",
+        "Cost": 8000,
+        "NameNoSign": null,
+        "Data": "5h00-21h00 ; 30 - 60 phút/Chuyến ; 8000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:10,20:15;0|T7|05:10,20:15;0|CN|05:10,20:15;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "30 - 60 phút/Chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:10 - 20:15",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:10 - 20:15",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:10 - 20:15",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 867,
+        "Name": "67CT - Phùng - Bến xe Sơn Tây",
+        "FleedCode": "67CT",
+        "Cost": 8000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 20 - 30 phút/Chuyến ; 8000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,19:35;0|T7|05:00,19:35;0|CN|05:00,19:35;###1|T2 - T6|05:05,21:05;1|T7|05:05,21:05;1|CN|05:05,21:05;0|T7|17:20,21:00;0|CN|05:00,11:00;1|T7|17:20,21:00;1|CN|05:00,11:40",
+        "Frequency": "20 - 30 phút/Chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 19:35",
+            "PeriodBack": "05:05 - 21:05"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "17:20 - 21:00",
+            "PeriodBack": "17:20 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 11:00",
+            "PeriodBack": "05:00 - 11:40"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 876,
+        "Name": "06D - Bến xe Giáp Bát - Tân Dân",
+        "FleedCode": "06D",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "5h25 - 20h00 ; 40-50-55-60 phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:25,20:00;0|T7|05:25,20:00;0|CN|05:25,20:00;###1|T2 - T6|05:20,20:15;1|T7|05:20,20:15;1|CN|05:20,20:15",
+        "Frequency": "40-50-55-60 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:25 - 20:00",
+            "PeriodBack": "05:20 - 20:15"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:25 - 20:00",
+            "PeriodBack": "05:20 - 20:15"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:25 - 20:00",
+            "PeriodBack": "05:20 - 20:15"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 886,
+        "Name": "06E - Bến xe Giáp Bát - Phú Túc",
+        "FleedCode": "06E",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "5h15-19h45 ; 25-phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:28,20:03;0|T7|05:28,20:03;0|CN|05:28,20:03;###1|T2 - T6|05:15,20:15;1|T7|05:15,20:15;1|CN|05:15,20:15",
+        "Frequency": "25-phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:28 - 20:03",
+            "PeriodBack": "05:15 - 20:15"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:28 - 20:03",
+            "PeriodBack": "05:15 - 20:15"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:28 - 20:03",
+            "PeriodBack": "05:15 - 20:15"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 901,
+        "Name": "101B - Bến xe Giáp Bát - Đại Cường (Ứng Hòa)",
+        "FleedCode": "101B",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "5h05-19h20 ; 48-50 phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:05,19:20;0|T7|05:05,19:20;0|CN|05:05,19:20;###1|T2 - T6|05:10,19:46;1|T7|05:10,19:46;1|CN|05:10,19:46",
+        "Frequency": "48-50 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:05 - 19:20",
+            "PeriodBack": "05:10 - 19:46"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:05 - 19:20",
+            "PeriodBack": "05:10 - 19:46"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:05 - 19:20",
+            "PeriodBack": "05:10 - 19:46"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 903,
+        "Name": "103B - Bến xe Mỹ Đình - Hồng Quang - Hương Sơn",
+        "FleedCode": "103B",
+        "Cost": 9000,
+        "NameNoSign": null,
+        "Data": "5h08-20h10 ; 17-20 - 25 phút/chuyến ; 9000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:08,20:40;0|T7|05:08,20:40;0|CN|05:08,20:40;###1|T2 - T6|05:10,20:40;1|T7|05:10,20:40;1|CN|05:10,20:40",
+        "Frequency": "17-20 - 25 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:08 - 20:40",
+            "PeriodBack": "05:10 - 20:40"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:08 - 20:40",
+            "PeriodBack": "05:10 - 20:40"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:08 - 20:40",
+            "PeriodBack": "05:10 - 20:40"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 908,
+        "Name": "08ACT - Long Biên - Đông Mỹ",
+        "FleedCode": "08ACT",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00-22h30 ; 10 - 15 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": true,
+        "OperationsTimeNew": "0|T2 - T6|05:00,22:05;0|T7|05:00,22:05;0|CN|05:00,22:05;###1|T2 - T6|05:00,21:30;1|T7|05:00,21:30;1|CN|05:00,21:30",
+        "Frequency": "10 - 15 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 22:05",
+            "PeriodBack": "05:00 - 21:30"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 22:05",
+            "PeriodBack": "05:00 - 21:30"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 22:05",
+            "PeriodBack": "05:00 - 21:30"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 918,
+        "Name": "BRT01 - Bến xe Yên Nghĩa - Kim Mã",
+        "FleedCode": "BRT01",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 22h00 ; 5 - 10 - 15 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,22:00;0|T7|05:00,22:00;0|CN|05:05,22:03;###1|T2 - T6|05:00,22:00;1|T7|05:00,22:00;1|CN|05:03,22:00",
+        "Frequency": "5 - 10 - 15 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 22:00",
+            "PeriodBack": "05:00 - 22:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 22:00",
+            "PeriodBack": "05:00 - 22:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:05 - 22:03",
+            "PeriodBack": "05:03 - 22:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 922,
+        "Name": "22C - Bến xe Giáp Bát - Khu đô thị Dương Nội",
+        "FleedCode": "22C",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 22h00 ; 20- 30 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:30;0|T7|05:00,21:30;0|CN|05:00,21:30;###1|T2 - T6|05:00,21:30;1|T7|05:00,21:30;1|CN|05:00,21:30",
+        "Frequency": "20- 30 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:30",
+            "PeriodBack": "05:00 - 21:30"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:30",
+            "PeriodBack": "05:00 - 21:30"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:30",
+            "PeriodBack": "05:00 - 21:30"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 930,
+        "Name": "30CT - Khu đô thị Gamuda - Bến xe Mỹ Đình",
+        "FleedCode": "30CT",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 10 - 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": true,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:18;0|T7|05:00,21:18;0|CN|05:00,21:18;###1|T2 - T6|05:00,21:15;1|T7|05:00,21:15;1|CN|05:00,21:15",
+        "Frequency": "10 - 20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:18",
+            "PeriodBack": "05:00 - 21:15"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:18",
+            "PeriodBack": "05:00 - 21:15"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:18",
+            "PeriodBack": "05:00 - 21:15"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 940,
+        "Name": "40CT - Công viên Thống Nhất - Văn Lâm",
+        "FleedCode": "40CT",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 22h00 ; 12 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": true,
+        "OperationsTimeNew": "0|T2 - T6|05:00,22:00;0|T7|05:00,22:00;0|CN|05:00,22:00;###1|T2 - T6|05:00,22:00;1|T7|05:00,22:00;1|CN|05:00,22:00",
+        "Frequency": "12 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 22:00",
+            "PeriodBack": "05:00 - 22:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 22:00",
+            "PeriodBack": "05:00 - 22:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 22:00",
+            "PeriodBack": "05:00 - 22:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 952,
+        "Name": "52ACT - Công viên Thống Nhất - Lệ Chi",
+        "FleedCode": "52ACT",
+        "Cost": 8000,
+        "NameNoSign": null,
+        "Data": "5h06 - 21h07 ; 17 - 25 phút/chuyến ; 8000VNĐ/lượt ",
+        "IsTwin": true,
+        "OperationsTimeNew": "0|T2 - T6|05:06,20:59;0|T7|05:06,20:59;0|CN|05:06,20:59;###1|T2 - T6|05:07,21:07;1|T7|05:07,21:07;1|CN|05:07,21:07",
+        "Frequency": "17 - 25 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:06 - 20:59",
+            "PeriodBack": "05:07 - 21:07"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:06 - 20:59",
+            "PeriodBack": "05:07 - 21:07"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:06 - 20:59",
+            "PeriodBack": "05:07 - 21:07"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 1268,
+        "Name": "68 - Hà Đông - Sân bay Nội Bài",
+        "FleedCode": "68",
+        "Cost": 50000,
+        "NameNoSign": null,
+        "Data": "Đầu A: 5h00 - 21h30; Đầu B: 6h32 - 23h02 ; 30 phút/chuyến ; 50000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|06:00,20:30;0|T7|06:00,20:30;0|CN|06:00,20:30;###1|T2 - T6|07:35,22:20;1|T7|07:35,22:20;1|CN|07:35,22:20",
+        "Frequency": "30 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "06:00 - 20:30",
+            "PeriodBack": "07:35 - 22:20"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "06:00 - 20:30",
+            "PeriodBack": "07:35 - 22:20"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "06:00 - 20:30",
+            "PeriodBack": "07:35 - 22:20"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 1286,
+        "Name": "86 - Ga Hà Nội - Sân bay Nội Bài",
+        "FleedCode": "86",
+        "Cost": 45000,
+        "NameNoSign": null,
+        "Data": "5h30-22h10 ; 45 phút/chuyến. ; 45000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:30,20:30;0|T7|05:30,20:30;0|CN|05:30,20:30;###1|T2 - T6|07:00,22:00;1|T7|07:00,22:00;1|CN|07:00,22:00",
+        "Frequency": "45 phút/chuyến.",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:30 - 20:30",
+            "PeriodBack": "07:00 - 22:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:30 - 20:30",
+            "PeriodBack": "07:00 - 22:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:30 - 20:30",
+            "PeriodBack": "07:00 - 22:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 4106,
+        "Name": "106 - KĐT Mỗ Lao - TTTM Aeon Mall Long Biên",
+        "FleedCode": "106",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 20 - 30 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:00,21:00;1|T7|05:00,21:00;1|CN|05:00,21:00",
+        "Frequency": "20 - 30 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:00 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 4107,
+        "Name": "107 - Kim Mã - Làng văn hóa du lịch các dân tộc VN",
+        "FleedCode": "107",
+        "Cost": 0,
+        "NameNoSign": null,
+        "Data": "5h00 - 20h50 ; 15 - 20 phút/chuyến ; 0VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,20:20;0|T7|05:00,20:20;0|CN|05:00,20:20;###1|T2 - T6|05:00,20:40;1|T7|05:00,20:40;1|CN|05:00,20:40",
+        "Frequency": "15 - 20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 20:20",
+            "PeriodBack": "05:00 - 20:40"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 20:20",
+            "PeriodBack": "05:00 - 20:40"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 20:20",
+            "PeriodBack": "05:00 - 20:40"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 4814,
+        "Name": "14CT - Trần Khánh Dư - Cổ Nhuế",
+        "FleedCode": "14CT",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h00 - 21h00 ; 10-15-20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": true,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:05;0|T7|05:01,21:03;0|CN|05:01,21:03;###1|T2 - T6|05:00,21:00;1|T7|05:01,21:01;1|CN|05:01,21:01",
+        "Frequency": "10-15-20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:05",
+            "PeriodBack": "05:00 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:01 - 21:03",
+            "PeriodBack": "05:01 - 21:01"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:01 - 21:03",
+            "PeriodBack": "05:01 - 21:01"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 4816,
+        "Name": "16 - Bến xe Mỹ Đình - Bến xe Nước Ngầm",
+        "FleedCode": "16",
+        "Cost": 0,
+        "NameNoSign": null,
+        "Data": "4h40 - 21h20 ; 10 phút/chuyến ; 0VNĐ/lượt ",
+        "IsTwin": false,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:20;0|T7|05:00,21:20;0|CN|05:05,21:25;###1|T2 - T6|04:40,21:00;1|T7|04:40,21:00;1|CN|04:40,21:00",
+        "Frequency": "10 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:20",
+            "PeriodBack": "04:40 - 21:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:20",
+            "PeriodBack": "04:40 - 21:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:05 - 21:25",
+            "PeriodBack": "04:40 - 21:00"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 9852,
+        "Name": "52BCT - Công viên Thống Nhất - Đặng Xá",
+        "FleedCode": "52BCT",
+        "Cost": 7000,
+        "NameNoSign": null,
+        "Data": "5h07-20h59 ; 20 phút/chuyến ; 7000VNĐ/lượt ",
+        "IsTwin": true,
+        "OperationsTimeNew": "0|T2 - T6|05:00,21:00;0|T7|05:00,21:00;0|CN|05:00,21:00;###1|T2 - T6|05:10,21:15;1|T7|05:10,21:15;1|CN|05:10,21:15",
+        "Frequency": "20 phút/chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:10 - 21:15"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:10 - 21:15"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:00 - 21:00",
+            "PeriodBack": "05:10 - 21:15"
+          }
+        ]
+      },
+      {
+        "ObjectType": 1,
+        "ObjectID": 12986,
+        "Name": "86CT - Ga Hà Nội - Sân Bay Nội Bài",
+        "FleedCode": "86CT",
+        "Cost": 45000,
+        "NameNoSign": null,
+        "Data": "5h30 - 22h10 ; 45 phút/Chuyến ; 45000VNĐ/lượt ",
+        "IsTwin": true,
+        "OperationsTimeNew": "0|T2 - T6|05:30,20:30;0|T7|05:30,20:30;0|CN|05:30,20:30;###1|T2 - T6|07:00,22:00;1|T7|07:00,22:00;1|CN|07:00,22:00",
+        "Frequency": "45 phút/Chuyến",
+        "LstFleetScheduleDetail": [
+          {
+            "Order": 0,
+            "DayOfWeek": "T2-T6",
+            "PeriodGo": "05:30 - 20:30",
+            "PeriodBack": "07:00 - 22:00"
+          },
+          {
+            "Order": 1,
+            "DayOfWeek": "T7",
+            "PeriodGo": "05:30 - 20:30",
+            "PeriodBack": "07:00 - 22:00"
+          },
+          {
+            "Order": 2,
+            "DayOfWeek": "CN",
+            "PeriodGo": "05:30 - 20:30",
+            "PeriodBack": "07:00 - 22:00"
+          }
+        ]
+      }
+    ]
+  },
+  "msg": "Construct"
+}
